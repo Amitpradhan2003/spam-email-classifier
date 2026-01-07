@@ -1,0 +1,11 @@
+FastAPI
+
+Scikit-learn
+
+NLTK
+
+Pandas
+
+Uvicorn
+
+Joblib
